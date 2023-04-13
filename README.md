@@ -6,6 +6,8 @@ Project inspired in the youtube tutorial : https://www.youtube.com/watch?v=qNiUl
 
 The application generates a QR Code that redirects to a website and its possible to download the qrcode image.
 
+Illustration by storyset (Freepik)
+
 # Layout Mobile
 
 ![alt text](./img/mobile.png)
